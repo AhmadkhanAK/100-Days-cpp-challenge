@@ -1,2 +1,2 @@
-# 365-Days-cpp-challenge
-Cpp from basic to advanced in 365 days
+# 100-Days-cpp-challenge
+Cpp from basic to advanced in 100 days
